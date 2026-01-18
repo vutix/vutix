@@ -38,7 +38,7 @@
 
 ---
 
-## 🎓 Eğitim & Arka Plan
+## 🎓 Eğitim
 
 * Yazılım Geliştirme Mezunu (Lise)
 * İleri Seviye Yapay Zekâ ve Makine Öğrenmesi Eğitimi
