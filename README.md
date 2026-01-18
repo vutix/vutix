@@ -1,8 +1,8 @@
 # 👋 Merhaba, ben Yusuf
 
-> Full Stack Developer | AI & Machine Learning — sistem odaklı, sade ve sürdürülebilir çözümler
+> Full Stack Developer | AI & Machine Öğrenmesi — sistem odaklı, sade ve sürdürülebilir çözümler
 
-**Full Stack Developer | AI & Machine Learning**
+**Full Stack Developer | AI & Machine Öğrenmesi**
 
 Ölçeklenebilir, sürdürülebilir ve üretim ortamına uygun yazılım sistemleri geliştiriyorum. Odak noktam; backend mimarisi, otomasyon, veri odaklı çözümler ve uygulamalı yapay zekâdır. Bunun yanında **HTML, CSS ve PHP** ile web tabanlı uygulamalar, **C#** ile masaüstü ve backend odaklı çalışmalar gerçekleştirdim. Özellikle **Discord tabanlı sistemler** ve **işlevsel yazılım altyapıları** üzerine deneyim sahibiyim.
 
